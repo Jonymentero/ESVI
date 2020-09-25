@@ -1,0 +1,90 @@
+body{
+
+    background-size: 1230px;
+
+}
+
+h1{
+
+    font-size: 35px;
+
+    color: #ff0000;
+
+}
+
+p{
+
+    color: #ffffff;
+
+}
+
+.menu{
+
+    display: flex;
+
+        justify-content: space-between;
+
+            background-image: url(menu.jpg); 
+
+                align-items: center;
+
+}
+
+.logo{
+
+    width: 100px;
+
+}
+
+.menu ol li{
+
+    display: inline;
+
+        padding-right: 20px;
+
+}
+
+.menu ol li a{
+
+    color: #0000ff;
+
+        text-decoration: none;
+
+}
+
+.planetas{
+
+    background-image: url(fondoEspacio.png);
+
+        background-size: cover;
+
+}
+
+.planetas img{
+
+    width: 200px;
+
+}
+
+.principal-button{
+
+    width: 250px;
+
+        height: 40px;
+
+            background-color: #66cc00;
+
+                border-radius: 24px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+}
+
+.img{
+
+    width: 200px;
+
+}
+

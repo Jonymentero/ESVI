@@ -1,0 +1,130 @@
+body{
+
+}
+.cuadernos{
+
+    background-image: url(fondo2.jpg);
+
+        background-size: cover;
+
+}
+
+.libros{
+
+    background-image: url(fondo2.jpg);
+
+        background-size: cover;    
+
+}
+
+.cuadernos img{
+
+    width: 500px;
+
+}
+
+.principal-button{
+
+    width: 250px;
+
+        height: 40px;
+
+            background-color: #66cc00;
+
+                border-radius: 24px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+}
+
+.boton{
+    
+    width: 435px;
+
+        height: 445px;
+
+            background-color: #ff0000;
+
+                border-radius: 30px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+                            background-image: url(español.png);
+
+}
+
+.boton2{
+    
+    width: 435px;
+
+        height: 445px;
+
+            background-color: #0000ff;
+
+                border-radius: 30px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+                            background-image: url(matematicas.png);
+
+}
+
+.boton3{
+    
+    width: 435px;
+
+        height: 445px;
+
+            background-color: #008000;
+
+                border-radius: 30px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+                            background-image: url(biologia.png);
+
+}
+
+.boton4{
+    
+    width: 435px;
+
+        height: 445px;
+
+            background-color: #00ccff;
+
+                border-radius: 30px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+                            background-image: url(geografia.png);
+
+}
+
+.boton5{
+    
+    width: 435px;
+
+        height: 445px;
+
+            background-color: #008000;
+
+                border-radius: 30px;
+
+                    cursor: pointer;
+
+                        margin-top: 30px;
+
+                            background-image: url();
+
+}
