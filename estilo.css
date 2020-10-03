@@ -1,6 +1,6 @@
 body{
 
-    background-size: 1230px;
+    background-size: 1220px;
 
 }
 
@@ -9,6 +9,12 @@ h1{
     font-size: 35px;
 
     color: #ff0000;
+
+}
+
+h2{
+
+color: #ffffff;
 
 }
 
@@ -24,10 +30,9 @@ p{
 
         justify-content: space-between;
 
-            background-image: url(menu.jpg); 
+        align-items: center;
 
-                align-items: center;
-
+        background-color: black;
 }
 
 .logo{
@@ -88,3 +93,46 @@ p{
 
 }
 
+.contenedor1{
+
+display: flex;
+
+    background: #0000ff;
+
+        padding: 20px;
+
+            justify-content: space-around;
+
+}
+
+.contenedor2{
+
+background: #ff0000;
+
+}
+
+.col1-contenedor1{
+
+width: 400px;
+
+}
+
+.col2-contenedor1{
+
+width: 200px;
+
+}
+
+.col3-contenedor1{
+
+width: 300px;
+
+}
+
+.logo1{
+
+width: 30px;
+
+    height: 20px;
+
+}
